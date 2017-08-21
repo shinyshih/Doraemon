@@ -14,6 +14,7 @@
 		384DEA511F4A9941008C46B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 384DEA4F1F4A9941008C46B2 /* LaunchScreen.storyboard */; };
 		384DEA5C1F4A9941008C46B2 /* themeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384DEA5B1F4A9941008C46B2 /* themeTests.swift */; };
 		384DEA671F4A9941008C46B2 /* themeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384DEA661F4A9941008C46B2 /* themeUITests.swift */; };
+		384DEA751F4AAD1D008C46B2 /* DoraemonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384DEA741F4AAD1D008C46B2 /* DoraemonViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		384DEA621F4A9941008C46B2 /* themeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = themeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		384DEA661F4A9941008C46B2 /* themeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = themeUITests.swift; sourceTree = "<group>"; };
 		384DEA681F4A9941008C46B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		384DEA741F4AAD1D008C46B2 /* DoraemonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoraemonViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				384DEA461F4A9941008C46B2 /* AppDelegate.swift */,
 				384DEA481F4A9941008C46B2 /* ViewController.swift */,
 				384DEA4A1F4A9941008C46B2 /* Main.storyboard */,
+				384DEA741F4AAD1D008C46B2 /* DoraemonViewController.swift */,
 				384DEA4D1F4A9941008C46B2 /* Assets.xcassets */,
 				384DEA4F1F4A9941008C46B2 /* LaunchScreen.storyboard */,
 				384DEA521F4A9941008C46B2 /* Info.plist */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				384DEA751F4AAD1D008C46B2 /* DoraemonViewController.swift in Sources */,
 				384DEA491F4A9941008C46B2 /* ViewController.swift in Sources */,
 				384DEA471F4A9941008C46B2 /* AppDelegate.swift in Sources */,
 			);
